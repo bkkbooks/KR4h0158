@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0158/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0158_WYG_000-1a, image: WYG1463/WYG1463-0001a.png}
+body:
+  text: 宋元詩㑹總集類提要臣等謹案宋元詩㑹一百卷國朝陳焯撰焯字默公桐城人順治壬辰進士選庶吉士以耳聾告歸不復出覃思著述取所見宋元詩人之作輯為此編每人各紀其爵里本末于下以備考訂雖甄録篇什無多而托拾家數頗為廣備王士禎香祖筆記稱康熙甲子奉使南海次相城焯過其客署二從者背負巨囊揖罷即呼具案顧從者取囊書數十大冊羅列案上指示士禎曰此吾二十年來所輯宋元詩㑹若干卷將待君决擇之然後出而問世云云蓋即指是書而言是其卷帙本極繁富而今刋行之本僅止此數或經士禎鑒别之後焯重加釐定而復為刪繁以就簡者然上下數百年間詩家林立其源流姓氏一一粲然以視吳之振顧嗣立兩家雖浩博不及之而梗概亦已略具矣乾隆四十五年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:9aca5fd1ee95fe17639f5138265ae0e21ed479c60f728ad9f56abd38fe651217
+metadata:
+  title: 宋元詩會
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:43:21.764815'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0158/KR4h0158_000.txt
+hash: sha256:c4f0862f48114c9bb1ae46a722678cc64dbb560ac5d963665d5a88e0068a7591
